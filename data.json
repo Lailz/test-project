@@ -1,0 +1,14 @@
+[
+  {
+    "id": 5779,
+    "name": "Victoria Cake",
+    "price": 7,
+    "image": "https://img.taste.com.au/mt5wVZJn/taste/2018/11/victoriasandwichcake-144224-1.jpg"
+  },
+  {
+    "name": "Devil's Food Cake",
+    "price": 13,
+    "image": "https://realfood.tesco.com/media/images/RFO-1400x919-DevilsFoodCake-5a69df04-114b-491c-838d-5c112ede8a27-0-1400x919.jpg",
+    "id": 450
+  }
+]
